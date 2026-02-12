@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Amiasea.Aviator.Validation.Capability.Test/1.0.0": {
+        "dependencies": {
+          "Amaiasea.Aviator.Validation.Capability.Abstractions": "1.0.0"
+        },
+        "runtime": {
+          "Amiasea.Aviator.Validation.Capability.Test.dll": {}
+        }
+      },
+      "Amaiasea.Aviator.Validation.Capability.Abstractions/1.0.0": {
+        "runtime": {
+          "Amaiasea.Aviator.Validation.Capability.Abstractions.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amiasea.Aviator.Validation.Capability.Test/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Amaiasea.Aviator.Validation.Capability.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net10.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+    
+    <!-- NuGet Package Metadata -->
+    <PackageId>Amiasea.Aviator.Validation.Capabilities.Abstractions</PackageId>
+    <PackageVersion>1.0.0</PackageVersion>
+    <Title>Amiasea Aviator Validation Capabilities Abstractions</Title>
+    <Description>Abstractions for the Amaiasea Aviator Validation Capability</Description>
+    <PackageProjectUrl>https://github.com/${{ github.repository }}</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/${{ github.repository }}</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+    <Authors>Amaiasea</Authors>
+    <License>MIT</License>
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+</Project>

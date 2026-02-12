@@ -1,0 +1,15 @@
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\bin\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.deps.json
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\bin\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.dll
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\bin\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.pdb
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\bin\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.Abstractions.dll
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\bin\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.Abstractions.pdb
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.csproj.AssemblyReference.cache
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.AssemblyInfoInputs.cache
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.AssemblyInfo.cs
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.csproj.CoreCompileInputs.cache
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\obj\Debug\net10.0\Amiasea..B5219C53.Up2Date
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.dll
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\obj\Debug\net10.0\refint\Amiasea.Aviator.Validation.Capabilities.dll
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.pdb
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities\obj\Debug\net10.0\ref\Amiasea.Aviator.Validation.Capabilities.dll

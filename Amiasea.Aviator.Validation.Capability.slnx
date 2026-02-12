@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Amiasea.Aviator.Validation.Capabilities.Abstractions/Amiasea.Aviator.Validation.Capabilities.Abstractions.csproj" />
+  <Project Path="Amiasea.Aviator.Validation.Capabilities/Amiasea.Aviator.Validation.Capabilities.csproj" Id="5bc9dbdb-7ca6-499f-a99e-3b97fa8c53f6" />
+</Solution>

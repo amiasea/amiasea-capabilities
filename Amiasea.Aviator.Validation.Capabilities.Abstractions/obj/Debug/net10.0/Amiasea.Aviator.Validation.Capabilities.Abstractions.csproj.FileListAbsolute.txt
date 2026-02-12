@@ -1,0 +1,11 @@
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities.Abstractions\bin\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.Abstractions.deps.json
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities.Abstractions\bin\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.Abstractions.dll
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities.Abstractions\bin\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.Abstractions.pdb
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities.Abstractions\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.Abstractions.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities.Abstractions\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.Abstractions.AssemblyInfoInputs.cache
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities.Abstractions\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.Abstractions.AssemblyInfo.cs
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities.Abstractions\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.Abstractions.csproj.CoreCompileInputs.cache
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities.Abstractions\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.Abstractions.dll
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities.Abstractions\obj\Debug\net10.0\refint\Amiasea.Aviator.Validation.Capabilities.Abstractions.dll
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities.Abstractions\obj\Debug\net10.0\Amiasea.Aviator.Validation.Capabilities.Abstractions.pdb
+C:\repos\amiasea-capability\Amiasea.Aviator.Validation.Capabilities.Abstractions\obj\Debug\net10.0\ref\Amiasea.Aviator.Validation.Capabilities.Abstractions.dll

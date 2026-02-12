@@ -1,0 +1,75 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\repos\\amiasea-capability\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC9DBDB-7CA6-499F-A99E-3B97FA8C53F6}|Amiasea.Aviator.Validation.Capability.Test\\Amiasea.Aviator.Validation.Capability.Test.csproj|c:\\repos\\amiasea-capability\\amiasea.aviator.validation.capability.test\\terraformprovidersigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC9DBDB-7CA6-499F-A99E-3B97FA8C53F6}|Amiasea.Aviator.Validation.Capability.Test\\Amiasea.Aviator.Validation.Capability.Test.csproj|solutionrelative:amiasea.aviator.validation.capability.test\\terraformprovidersigner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5BC9DBDB-7CA6-499F-A99E-3B97FA8C53F6}|Amiasea.Aviator.Validation.Capability.Test\\Amiasea.Aviator.Validation.Capability.Test.csproj|c:\\repos\\amiasea-capability\\amiasea.aviator.validation.capability.test\\terraformprovidersigneroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5BC9DBDB-7CA6-499F-A99E-3B97FA8C53F6}|Amiasea.Aviator.Validation.Capability.Test\\Amiasea.Aviator.Validation.Capability.Test.csproj|solutionrelative:amiasea.aviator.validation.capability.test\\terraformprovidersigneroptions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1E53834D-F642-32C6-DB54-FC97E23A8E2B}|Amaiasea.Aviator.Validation.Capability.Abstractions\\Amaiasea.Aviator.Validation.Capability.Abstractions.csproj|c:\\repos\\amiasea-capability\\amaiasea.aviator.validation.capability.abstractions\\icapabilityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E53834D-F642-32C6-DB54-FC97E23A8E2B}|Amaiasea.Aviator.Validation.Capability.Abstractions\\Amaiasea.Aviator.Validation.Capability.Abstractions.csproj|solutionrelative:amaiasea.aviator.validation.capability.abstractions\\icapabilityvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 267,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TerraformproviderSignerOptions.cs",
+              "DocumentMoniker": "C:\\repos\\amiasea-capability\\Amiasea.Aviator.Validation.Capability.Test\\TerraformproviderSignerOptions.cs",
+              "RelativeDocumentMoniker": "Amiasea.Aviator.Validation.Capability.Test\\TerraformproviderSignerOptions.cs",
+              "ToolTip": "C:\\repos\\amiasea-capability\\Amiasea.Aviator.Validation.Capability.Test\\TerraformproviderSignerOptions.cs",
+              "RelativeToolTip": "Amiasea.Aviator.Validation.Capability.Test\\TerraformproviderSignerOptions.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T23:42:11.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICapabilityValidator.cs",
+              "DocumentMoniker": "C:\\repos\\amiasea-capability\\Amaiasea.Aviator.Validation.Capability.Abstractions\\ICapabilityValidator.cs",
+              "RelativeDocumentMoniker": "Amaiasea.Aviator.Validation.Capability.Abstractions\\ICapabilityValidator.cs",
+              "ToolTip": "C:\\repos\\amiasea-capability\\Amaiasea.Aviator.Validation.Capability.Abstractions\\ICapabilityValidator.cs",
+              "RelativeToolTip": "Amaiasea.Aviator.Validation.Capability.Abstractions\\ICapabilityValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T22:39:01.645Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TerraformProviderSigner.cs",
+              "DocumentMoniker": "C:\\repos\\amiasea-capability\\Amiasea.Aviator.Validation.Capability.Test\\TerraformProviderSigner.cs",
+              "RelativeDocumentMoniker": "Amiasea.Aviator.Validation.Capability.Test\\TerraformProviderSigner.cs",
+              "ToolTip": "C:\\repos\\amiasea-capability\\Amiasea.Aviator.Validation.Capability.Test\\TerraformProviderSigner.cs",
+              "RelativeToolTip": "Amiasea.Aviator.Validation.Capability.Test\\TerraformProviderSigner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-11T22:36:32.259Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

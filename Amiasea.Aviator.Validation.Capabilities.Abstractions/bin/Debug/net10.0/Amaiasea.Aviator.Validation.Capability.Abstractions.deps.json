@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Amaiasea.Aviator.Validation.Capability.Abstractions/1.0.0": {
+        "runtime": {
+          "Amaiasea.Aviator.Validation.Capability.Abstractions.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Amaiasea.Aviator.Validation.Capability.Abstractions/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
