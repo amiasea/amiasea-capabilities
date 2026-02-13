@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Amiasea Aviator Validation Capabilities")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3f457d718158c88334f9c343f18dd1382aebce81")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+794902bacda76a93014fbf5d12d8ce453b93272b")]
 [assembly: System.Reflection.AssemblyProductAttribute("Amiasea.Aviator.Validation.Capabilities")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Amiasea.Aviator.Validation.Capabilities")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
