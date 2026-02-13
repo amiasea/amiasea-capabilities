@@ -18,6 +18,7 @@ jobs:
 
   deploy:
     needs: build
+    if: startsWith(github.ref, 'refs/tags/v') 
     uses: amiasea/.github/.github/workflows/shared-deploy-nuget-pkg.yml@main
     with:
       artifact-name: nuget-package
