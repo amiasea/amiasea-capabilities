@@ -4,6 +4,22 @@
     <TargetFramework>net10.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>enable</Nullable>
+
+    <!-- NuGet Package Metadata -->
+    <PackageId>Amiasea.Aviator.Validation.Capabilities</PackageId>
+    <Title>Amiasea Aviator Validation Capabilities</Title>
+    <Description>Amiasea Aviator Validation Capabilities</Description>
+
+    <!-- These must be literal URLs, not GitHub Actions expressions -->
+    <PackageProjectUrl>https://github.com/amiasea/amiasea-capabilities</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/amiasea/amiasea-capabilities</RepositoryUrl>
+    <RepositoryType>git</RepositoryType>
+
+    <Authors>Amiasea</Authors>
+    <PackageLicenseExpression>MIT</PackageLicenseExpression>
+
+    <!-- CI will run dotnet pack -->
+    <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
   </PropertyGroup>
 
   <ItemGroup>

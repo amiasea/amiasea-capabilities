@@ -1,0 +1,7 @@
+{
+  "github-actions.validate.enabled": false,
+  "github-actions.lint.enabled": false,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": false
+  }
+}
